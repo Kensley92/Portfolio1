@@ -4,7 +4,7 @@ const port = 3001;
 
 
 App.get('/', function(request, response){
-    response.send("Hello World!");
+    response.send("Hello! My name is Kensley Strong!");
 });
 
 App.use('/public', Express.static("public"));

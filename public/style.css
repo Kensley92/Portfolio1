@@ -1,0 +1,28 @@
+body{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color:#223764;
+  background-image: url("bg.jpg");
+font-size: large;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 28px;
+  text-shadow: 6px 6px #00000;
+  text-align: center;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom:50px;
+  padding-left: 50px;
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  background: rgba(255,100,000,0.2);
+}
+
+table {
+  
+}
